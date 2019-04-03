@@ -35,6 +35,9 @@ Eitt af því sem þú græðir á því að búa til 2.5D leik er að ef þú n
 # 4
 #### Hvers vegna að nota 4d í tölvuleikjagerð? Komdu með dæmi um tölvuleiki í 4d og útskýrðu 4d virkni hans
 
+4D leikir eru mjög áhugaverðir og þegar þú sérð video af 4D leik eða spilar hann, eitt gott við það er að 4D hlutir geta tekið á sig svo mörg form þegar þú hreyfir þig vegna þess að rétt eins og ferningur er sneið úr kassa sem er 3D þá er kassi sneið úr 4D hlut og þegar þú hreyfir þig í kringum 4D hlut þá virðist hann taka á sig mörg form. Þá verða til endalausir möguleikar.
+Dæmi um 4D leik er t.d. Miegakure sem er puzzle leikur sem að þú ferðast um lítið svæði en umhverfið í kringum þig er alltaf að breytast vegna 4D virkninni í leiknum þegar þú hreyfir þig í kringum hlutina.
+
 # 5
 #### Búðu til í Unity samsetta e. sprite persónu eða hlut að eigin vali með Sprite Editor
 
